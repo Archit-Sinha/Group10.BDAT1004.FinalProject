@@ -7,4 +7,3 @@ Group members:-
 4) Gourav Bhardwaj (Student ID:- 200507072)
 
 The link to our website :- https://bdat1004group10finalproject.herokuapp.com/
-<img width="492" alt="image" src="https://user-images.githubusercontent.com/99299138/164872638-5e047dca-5d18-45c7-90b6-0aaccef661f9.png">
